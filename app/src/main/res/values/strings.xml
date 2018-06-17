@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeeApps</string>
+    <string name="L">Login</string>
+    <string name="R">Registrasi</string>
+    <string name="E">Email</string>
+    <string name="P">Password</string>
+    <string name="N">Name</string>
+</resources>
